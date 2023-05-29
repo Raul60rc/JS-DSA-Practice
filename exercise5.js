@@ -4,3 +4,7 @@ const discountPercentage = 10
 const finalPrice = productPrice * discountPercentage / 100;
 
 console.log(finalPrice)
+
+// Revise this code 
+
+
