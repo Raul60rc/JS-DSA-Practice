@@ -6,6 +6,6 @@ const areaCalculator = (shape) =>{
         }
     } 
     if (shape == "square"){
-        
+        // finish activity
     }
 }
